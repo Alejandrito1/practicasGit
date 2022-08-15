@@ -1,4 +1,4 @@
-Este ejemplo de rama se creo en la Rama master
+Este ejemplo viene desde la rama master, pero ahora esta en la otra_rama
 Aqui agregamos otra linea 
-y aqui tambien, todo esto desde la rama master
+y aqui tambien, agregamos otra linea desde mi_otra_rama
 
